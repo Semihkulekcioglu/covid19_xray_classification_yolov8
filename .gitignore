@@ -38,7 +38,8 @@ ENV/
 *.engine
 *.trt
 *.cache
-runs/
+runs/**/*.pt
+runs/**/*.pth
 data/covid_dataset/
 data/covid_classification.zip
 
