@@ -59,6 +59,9 @@ The project includes scripts for:
 ## Results
 
 The model's performance metrics and visualizations can be found in the `runs/classify/yolov8_covid_classification/` directory.
+![val_batch0_pred](https://github.com/user-attachments/assets/d23ed2f1-e99b-4531-8f48-f91a875544d4)
+![val_batch1_labels](https://github.com/user-attachments/assets/e0cdca14-a513-49c9-b984-3d12819e2fd5)
+
 
 ## License
 
