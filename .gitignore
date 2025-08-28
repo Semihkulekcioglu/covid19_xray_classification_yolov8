@@ -32,14 +32,11 @@ ENV/
 *.swo
 
 # Project specific
-*.pt
 *.pth
 *.onnx
 *.engine
 *.trt
 *.cache
-runs/**/*.pt
-runs/**/*.pth
 data/covid_dataset/
 data/covid_classification.zip
 
