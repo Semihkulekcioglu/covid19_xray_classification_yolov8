@@ -60,6 +60,9 @@ Proje aşağıdaki betikleri içerir:
 
 Model performans metrikleri ve görselleştirmeler `runs/classify/yolov8_covid_classification/` dizininde bulunabilir.
 
+![val_batch0_pred](https://github.com/user-attachments/assets/d23ed2f1-e99b-4531-8f48-f91a875544d4)
+![val_batch1_labels](https://github.com/user-attachments/assets/e0cdca14-a513-49c9-b984-3d12819e2fd5)
+
 ## Lisans
 
 Bu proje açık kaynaklıdır ve MIT Lisansı altında kullanıma sunulmuştur.
